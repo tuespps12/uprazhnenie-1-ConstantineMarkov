@@ -29,8 +29,8 @@ PSU | - | 500 W Deepcool DN500
 Параметър | Изискване | Конфигурация
 ------------ | -------------| -------------
 CPU | 6th Gen + | Intel Core i7-9700 
-RAM |  | 16 GB DDR4 2666 MHz ADATA
+RAM | 16-32 GB  | 16 GB DDR4 2666 MHz ADATA
 GPU | 4GB VRAM GPU | NVIDIA GeForce RTX 2060 6GB
-Disk | 8GB + space | 1 TB Toshiba 7200 rpm
+Disk | 8 GB + space | 1 TB Toshiba 7200 rpm
 Motherboard | - | ASRock H310CM-HDV/M.2
 PSU | - | 500 W Deepcool DN500 
