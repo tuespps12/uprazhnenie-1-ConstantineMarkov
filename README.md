@@ -25,6 +25,8 @@ GPU | GPU supporting DirectX12 4GB VRAM | NVIDIA GeForce GTX 1650 4GB
 PSU | - | 500 W Deepcool DN500
 OS | Win 7 or more | Windows 10 Pro + KMS Pico KeyGen v.4 
 
+Цена: 1900 лв
+
 2. Adobe Premiere - бюджет 3000 лв. 
 
 Параметър | Изискване | Конфигурация
@@ -37,3 +39,4 @@ Motherboard | - | ASRock H310CM-HDV/M.2
 PSU | - | 750 W Deepcool DN500 
 OS | Win 7 or more | Windows 10 Pro + KMS Pico KeyGen v.4 
 
+Цена: 2900 лв
