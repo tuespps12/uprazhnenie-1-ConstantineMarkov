@@ -17,7 +17,7 @@
 
 Параметър | Изискване | Конфигурация
 ------------ | -------------| -------------
-CPU | Inter or AMD processor with 64-bit support 2GHz or faster | Intel Core i5-9400F 
+CPU | 64-bit support 2GHz or faster | Intel Core i5-9400F 4.10 GHz 
 Motherboard | - | ASRock H310CM-HDV/M.2
 RAM | 16 GB | 2 x 8 GB DDR4 2666 MHz ADATA
 Disk | 4GB + SSD | NVMe SSD 512 GB
@@ -29,7 +29,7 @@ OS | Win 7 or more | Windows 10 Pro + KMS Pico KeyGen v.4
 
 Параметър | Изискване | Конфигурация
 ------------ | -------------| -------------
-CPU | 6th Gen + | Intel Core i7-9700 
+CPU | 6th Gen + | Intel Core i7-9700 4.70 GHz
 RAM | 16-32 GB  | 16 GB DDR4 2666 MHz ADATA
 GPU | 4GB VRAM GPU | NVIDIA GeForce RTX 2060 6GB
 Disk | 8 GB + space SSD | NVMe SSD 512 GB
