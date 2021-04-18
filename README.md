@@ -34,6 +34,6 @@ RAM | 16-32 GB  | 16 GB DDR4 2666 MHz ADATA
 GPU | 4GB VRAM GPU | NVIDIA GeForce RTX 2060 6GB
 Disk | 8 GB + space SSD | NVMe SSD 512 GB
 Motherboard | - | ASRock H310CM-HDV/M.2
-PSU | - | 500 W Deepcool DN500 
+PSU | - | 750 W Deepcool DN500 
 OS | Win 7 or more | Windows 10 Pro + KMS Pico KeyGen v.4 
 
