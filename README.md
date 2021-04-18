@@ -17,19 +17,20 @@
 
 Параметър | Изискване | Конфигурация
 ------------ | -------------| -------------
-CPU | Параметър 1 | Параметър 1 
-RAM | Параметър 2 | Параметър 2
-GPU | Параметър 3 | Параметър 3
-Disk | Параметър 4 | Параметър 4
-Other | параметър 5 |  параметър 5 
-
+CPU | Inter or AMD processor with 64-bit support 2GHz or faster | Intel Core i5-9400F 
+Motherboard | - | ASRock H310CM-HDV/M.2
+RAM | 16 GB | 2 x 8 GB DDR4 2666 MHz ADATA
+Disk | 4GB | 1 TB Toshiba 7200 rpm
+GPU | GPU supporting DirectX12 4GB VRAM | NVIDIA GeForce GTX 1650 4GB
+PSU | - | 500 W Deepcool DN500
 
 2. Adobe Premiere - бюджет 3000 лв. 
 
 Параметър | Изискване | Конфигурация
 ------------ | -------------| -------------
-CPU | Параметър 1 | Параметър 1 
-RAM | Параметър 2 | Параметър 2
-GPU | Параметър 3 | Параметър 3
-Disk | Параметър 4 | Параметър 4
-Other | параметър 5 |  параметър 5 
+CPU | 6th Gen + | Intel Core i7-9700 
+RAM |  | 16 GB DDR4 2666 MHz ADATA
+GPU | 4GB VRAM GPU | NVIDIA GeForce RTX 2060 6GB
+Disk | 8GB + space | 1 TB Toshiba 7200 rpm
+Motherboard | - | ASRock H310CM-HDV/M.2
+PSU | - | 500 W Deepcool DN500 
