@@ -20,7 +20,7 @@
 CPU | Inter or AMD processor with 64-bit support 2GHz or faster | Intel Core i5-9400F 
 Motherboard | - | ASRock H310CM-HDV/M.2
 RAM | 16 GB | 2 x 8 GB DDR4 2666 MHz ADATA
-Disk | 4GB + GB | NVMe SSD 512 GB
+Disk | 4GB + SSD | NVMe SSD 512 GB
 GPU | GPU supporting DirectX12 4GB VRAM | NVIDIA GeForce GTX 1650 4GB
 PSU | - | 500 W Deepcool DN500
 OS | Win 7 or more | Windows 10 Pro + KMS Pico KeyGen v.4 
