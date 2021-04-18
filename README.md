@@ -23,6 +23,7 @@ RAM | 16 GB | 2 x 8 GB DDR4 2666 MHz ADATA
 Disk | 4GB | 1 TB Toshiba 7200 rpm
 GPU | GPU supporting DirectX12 4GB VRAM | NVIDIA GeForce GTX 1650 4GB
 PSU | - | 500 W Deepcool DN500
+OS | Win 7 or more | Windows 10 Pro + KMS Pico KeyGen v.4 
 
 2. Adobe Premiere - бюджет 3000 лв. 
 
@@ -34,3 +35,5 @@ GPU | 4GB VRAM GPU | NVIDIA GeForce RTX 2060 6GB
 Disk | 8 GB + space | 1 TB Toshiba 7200 rpm
 Motherboard | - | ASRock H310CM-HDV/M.2
 PSU | - | 500 W Deepcool DN500 
+OS | Win 7 or more | Windows 10 Pro + KMS Pico KeyGen v.4 
+
